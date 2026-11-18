@@ -1,0 +1,1290 @@
+{
+  "app_name": "لالایی‌های رویایی",
+  "version": "2.0.0",
+  "total_tracks": 52,
+  "categories": [
+    {
+      "id": "cat_traditional",
+      "name": "سنتی و کلاسیک",
+      "icon": "fa-cloud-moon",
+      "description": "لالایی‌های کهن و اصیل ایرانی"
+    },
+    {
+      "id": "cat_folk",
+      "name": "محلی و اقوام ایرانی",
+      "icon": "fa-mountain",
+      "description": "لالایی‌های ترکی، کردی، لری، گیلکی، مازنی، بلوچی و عربی"
+    },
+    {
+      "id": "cat_modern",
+      "name": "مدرن و ترانه‌های کودکانه",
+      "icon": "fa-star",
+      "description": "ترانه‌های لطیف و خواب‌آور کودکان"
+    },
+    {
+      "id": "cat_nature",
+      "name": "جعبه موسیقی، بی‌کلام و نویز سفید",
+      "icon": "fa-music",
+      "description": "موسیقی‌های آرامش‌بخش، نویز سفید و پیانو برای خواب عمیق"
+    }
+  ],
+  "tracks": [
+    {
+      "id": "trk_001",
+      "category_id": "cat_traditional",
+      "title": "لالایی ماه تابان",
+      "artist / source": "بازآفرینی سنتی ایرانی",
+      "duration_seconds": 166,
+      "duration_formatted": "۰۲:۴۶",
+      "cover_gradient": [
+        "#263B73",
+        "#7C6BB1"
+      ],
+      "icon": "fa-moon",
+      "audio_url": "/audio/trk_001.mp3",
+      "tags": [
+        "سنتی",
+        "آرام",
+        "مادرانه"
+      ],
+      "is_favorite": true,
+      "lyrics": [
+        "لالا لالا گل نرگس، شب از راه رسیده",
+        "ماه از پشت پنجره آرام خندیده",
+        "بخواب ای جان مادر، ستاره بیدار است"
+      ]
+    },
+    {
+      "id": "trk_002",
+      "category_id": "cat_traditional",
+      "title": "لالایی گل پونه",
+      "artist / source": "آواز مادرانهٔ ایرانی",
+      "duration_seconds": 184,
+      "duration_formatted": "۰۳:۰۴",
+      "cover_gradient": [
+        "#263B73",
+        "#7C6BB1"
+      ],
+      "icon": "fa-spa",
+      "audio_url": "/audio/trk_002.mp3",
+      "tags": [
+        "سنتی",
+        "گل‌وبوته",
+        "خواب‌آور"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "لالا لالا گل پونه، نسیم آمد به خانه",
+        "چراغ شب فروزان، کنار آشیانه",
+        "بخواب ای نازنینم، سحر با خنده آید"
+      ]
+    },
+    {
+      "id": "trk_003",
+      "category_id": "cat_traditional",
+      "title": "لالایی گهوارهٔ چوبی",
+      "artist / source": "بازآفرینی ترانهٔ گهواره",
+      "duration_seconds": 201,
+      "duration_formatted": "۰۳:۲۱",
+      "cover_gradient": [
+        "#263B73",
+        "#7C6BB1"
+      ],
+      "icon": "fa-baby",
+      "audio_url": "/audio/trk_003.mp3",
+      "tags": [
+        "گهواره",
+        "کلاسیک",
+        "ملایم"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "گهواره آهسته می‌جنبد",
+        "شب روی بام خانه می‌خندد",
+        "چشم‌های خسته‌ات را ببند"
+      ]
+    },
+    {
+      "id": "trk_004",
+      "category_id": "cat_traditional",
+      "title": "لالایی ستارهٔ کوچک",
+      "artist / source": "آواز سنتی ایرانی",
+      "duration_seconds": 173,
+      "duration_formatted": "۰۲:۵۳",
+      "cover_gradient": [
+        "#263B73",
+        "#7C6BB1"
+      ],
+      "icon": "fa-star",
+      "audio_url": "/audio/trk_004.mp3",
+      "tags": [
+        "ستاره",
+        "سنتی",
+        "لطیف"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "لالا لالا ستاره، چراغ آسمانی",
+        "بخواب تا صبح روشن، بیاید مهربانی",
+        "کنار خواب شیرینت، فرشته پاسبان است"
+      ]
+    },
+    {
+      "id": "trk_005",
+      "category_id": "cat_traditional",
+      "title": "لالایی شب‌چراغ",
+      "artist / source": "بازآفرینی آواز کهن",
+      "duration_seconds": 192,
+      "duration_formatted": "۰۳:۱۲",
+      "cover_gradient": [
+        "#263B73",
+        "#7C6BB1"
+      ],
+      "icon": "fa-lightbulb",
+      "audio_url": "/audio/trk_005.mp3",
+      "tags": [
+        "شبانه",
+        "کهن",
+        "آرام"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "شب‌چراغ خانه روشن، سایه‌ها آرام و خاموش",
+        "لالا لالا عزیزم، خواب تو شیرین و نوش",
+        "باد پشت پنجره خواند، قصهٔ ماه و فراموش"
+      ]
+    },
+    {
+      "id": "trk_006",
+      "category_id": "cat_traditional",
+      "title": "لالایی گل شب‌بو",
+      "artist / source": "آواز مادرانهٔ ایرانی",
+      "duration_seconds": 158,
+      "duration_formatted": "۰۲:۳۸",
+      "cover_gradient": [
+        "#263B73",
+        "#7C6BB1"
+      ],
+      "icon": "fa-leaf",
+      "audio_url": "/audio/trk_006.mp3",
+      "tags": [
+        "گل",
+        "سنتی",
+        "آرامش"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "گل شب‌بو عطر افشان، خواب را آورده امشب",
+        "لالا لالا گل من، ماه می‌تابد به گهواره",
+        "چشم بر هم نه عزیزم، صبح می‌آید دوباره"
+      ]
+    },
+    {
+      "id": "trk_007",
+      "category_id": "cat_traditional",
+      "title": "لالایی خواب شیرین",
+      "artist / source": "بازآفرینی سنتی",
+      "duration_seconds": 177,
+      "duration_formatted": "۰۲:۵۷",
+      "cover_gradient": [
+        "#263B73",
+        "#7C6BB1"
+      ],
+      "icon": "fa-cloud-moon",
+      "audio_url": "/audio/trk_007.mp3",
+      "tags": [
+        "خواب",
+        "کلاسیک",
+        "مادرانه"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "لالا لالا بخواب ای گل خوش‌رنگ",
+        "شب آرام است و مهتابش قشنگ",
+        "به خواب ناز برو، ای نور خانه"
+      ]
+    },
+    {
+      "id": "trk_008",
+      "category_id": "cat_traditional",
+      "title": "لالایی ماه و گهواره",
+      "artist / source": "آواز سنتی ایرانی",
+      "duration_seconds": 211,
+      "duration_formatted": "۰۳:۳۱",
+      "cover_gradient": [
+        "#263B73",
+        "#7C6BB1"
+      ],
+      "icon": "fa-moon",
+      "audio_url": "/audio/trk_008.mp3",
+      "tags": [
+        "ماه",
+        "گهواره",
+        "نرم"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "ماه آمد و نشست آن سوی پنجره",
+        "گهواره می‌خواند برایت قصه",
+        "لالا لالا بخواب ای نازنینم",
+        "ستاره می‌درخشد کنار زمینم"
+      ]
+    },
+    {
+      "id": "trk_009",
+      "category_id": "cat_traditional",
+      "title": "لالایی گل یاس",
+      "artist / source": "بازآفرینی آواز مادرانه",
+      "duration_seconds": 169,
+      "duration_formatted": "۰۲:۴۹",
+      "cover_gradient": [
+        "#263B73",
+        "#7C6BB1"
+      ],
+      "icon": "fa-spa",
+      "audio_url": "/audio/trk_009.mp3",
+      "tags": [
+        "یاس",
+        "سنتی",
+        "شبانه"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "یاس سپید باغچه، سر خم کرده به خوابت",
+        "لالا لالا عزیزم، شب می‌سپارد سلامش",
+        "خواب خوشی ببینی، تا صبح در پناهش"
+      ]
+    },
+    {
+      "id": "trk_010",
+      "category_id": "cat_traditional",
+      "title": "لالایی مادرانهٔ آرام",
+      "artist / source": "آواز مادرانهٔ ایرانی",
+      "duration_seconds": 195,
+      "duration_formatted": "۰۳:۱۵",
+      "cover_gradient": [
+        "#263B73",
+        "#7C6BB1"
+      ],
+      "icon": "fa-heart",
+      "audio_url": "/audio/trk_010.mp3",
+      "tags": [
+        "مادرانه",
+        "آرام",
+        "کلاسیک"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "لالا لالا جان مادر، کنار تو نشستم",
+        "قصهٔ ماه و دریا، آرام برایت گفتم",
+        "بخواب که صبح روشن، لبخند می‌زند از راه"
+      ]
+    },
+    {
+      "id": "trk_011",
+      "category_id": "cat_traditional",
+      "title": "لالایی شکوفهٔ بهار",
+      "artist / source": "بازآفرینی سنتی ایرانی",
+      "duration_seconds": 182,
+      "duration_formatted": "۰۳:۰۲",
+      "cover_gradient": [
+        "#263B73",
+        "#7C6BB1"
+      ],
+      "icon": "fa-seedling",
+      "audio_url": "/audio/trk_011.mp3",
+      "tags": [
+        "بهار",
+        "گل",
+        "ملایم"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "شکوفه در دل شب، آرام آرام خفته",
+        "لالا لالا عزیزم، پنجره رو به روفته",
+        "صبح بهار می‌آید، با بوسه‌ای نهفته"
+      ]
+    },
+    {
+      "id": "trk_012",
+      "category_id": "cat_traditional",
+      "title": "لالایی باغ آسمان",
+      "artist / source": "آواز سنتی ایرانی",
+      "duration_seconds": 206,
+      "duration_formatted": "۰۳:۲۶",
+      "cover_gradient": [
+        "#263B73",
+        "#7C6BB1"
+      ],
+      "icon": "fa-cloud",
+      "audio_url": "/audio/trk_012.mp3",
+      "tags": [
+        "آسمان",
+        "سنتی",
+        "خواب‌آور"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "در باغ آسمان امشب، ستاره گل فشانده",
+        "نسیم قصهٔ خواب را تا گهواره رسانده",
+        "لالا لالا بخواب ای گل خندان"
+      ]
+    },
+    {
+      "id": "trk_013",
+      "category_id": "cat_traditional",
+      "title": "لالایی قصهٔ ماه",
+      "artist / source": "بازآفرینی آواز کهن",
+      "duration_seconds": 188,
+      "duration_formatted": "۰۳:۰۸",
+      "cover_gradient": [
+        "#263B73",
+        "#7C6BB1"
+      ],
+      "icon": "fa-book-open",
+      "audio_url": "/audio/trk_013.mp3",
+      "tags": [
+        "قصه",
+        "ماه",
+        "سنتی"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "ماه قصه‌گو رسیده، با لبخند و ترانه",
+        "لالا لالا بخواب ای گل خانه",
+        "شب قصه‌اش تمام شد، خواب آمده به خانه"
+      ]
+    },
+    {
+      "id": "trk_014",
+      "category_id": "cat_folk",
+      "title": "لالایی تبریِ دامون",
+      "artist / source": "الهام‌گرفته از موسیقی مازندرانی",
+      "duration_seconds": 194,
+      "duration_formatted": "۰۳:۱۴",
+      "cover_gradient": [
+        "#236B64",
+        "#79A96B"
+      ],
+      "icon": "fa-mountain",
+      "audio_url": "/audio/trk_014.mp3",
+      "tags": [
+        "مازندرانی",
+        "محلی",
+        "طبیعت"
+      ],
+      "is_favorite": true,
+      "lyrics": [
+        "لالا لالا دامون، کوه در مه خفته",
+        "لالا گل نازم، جنگل چراغ افروخته",
+        "رود آرام می‌خواند، شب به خانه آمده"
+      ]
+    },
+    {
+      "id": "trk_015",
+      "category_id": "cat_folk",
+      "title": "لالایی گیلانیِ باران",
+      "artist / source": "الهام‌گرفته از موسیقی گیلان",
+      "duration_seconds": 172,
+      "duration_formatted": "۰۲:۵۲",
+      "cover_gradient": [
+        "#236B64",
+        "#79A96B"
+      ],
+      "icon": "fa-cloud-rain",
+      "audio_url": "/audio/trk_015.mp3",
+      "tags": [
+        "گیلکی",
+        "باران",
+        "محلی"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "باران به سقف خانه، نرم و نم‌نم می‌زند",
+        "لالا لالا عزیزم، جنگل برایت قصه می‌گوید",
+        "دریا در دوردست، خواب آرام می‌بیند"
+      ]
+    },
+    {
+      "id": "trk_016",
+      "category_id": "cat_folk",
+      "title": "لالایی ترکیِ آراز",
+      "artist / source": "الهام‌گرفته از نغمه‌های آذری",
+      "duration_seconds": 203,
+      "duration_formatted": "۰۳:۲۳",
+      "cover_gradient": [
+        "#236B64",
+        "#79A96B"
+      ],
+      "icon": "fa-water",
+      "audio_url": "/audio/trk_016.mp3",
+      "tags": [
+        "ترکی",
+        "آذری",
+        "رود"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "آراز آرام می‌گذرد از کنار باغ",
+        "لالا لالا گل من، شب شده چراغ",
+        "ماه بر آب می‌رقصد، تا بیاید خواب"
+      ]
+    },
+    {
+      "id": "trk_017",
+      "category_id": "cat_folk",
+      "title": "لالایی کردیِ کوهستان",
+      "artist / source": "الهام‌گرفته از موسیقی کردی",
+      "duration_seconds": 187,
+      "duration_formatted": "۰۳:۰۷",
+      "cover_gradient": [
+        "#236B64",
+        "#79A96B"
+      ],
+      "icon": "fa-mountain",
+      "audio_url": "/audio/trk_017.mp3",
+      "tags": [
+        "کردی",
+        "کوهستان",
+        "محلی"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "کوه به خواب رفته، در آغوش ابرها",
+        "لالا لالا عزیزم، ستاره‌ها با ما",
+        "باد آواز آرامی می‌برد به دشت"
+      ]
+    },
+    {
+      "id": "trk_018",
+      "category_id": "cat_folk",
+      "title": "لالایی لریِ بلوط",
+      "artist / source": "الهام‌گرفته از موسیقی لری",
+      "duration_seconds": 180,
+      "duration_formatted": "۰۳:۰۰",
+      "cover_gradient": [
+        "#236B64",
+        "#79A96B"
+      ],
+      "icon": "fa-tree",
+      "audio_url": "/audio/trk_018.mp3",
+      "tags": [
+        "لری",
+        "بلوط",
+        "محلی"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "زیر سایهٔ بلوط، شب آرام گرفته",
+        "لالا لالا جانم، ماه از راه رسیده",
+        "چشمه برای خوابت، ترانه‌ای چکیده"
+      ]
+    },
+    {
+      "id": "trk_019",
+      "category_id": "cat_folk",
+      "title": "لالایی بوشهریِ دریا",
+      "artist / source": "الهام‌گرفته از موسیقی جنوب ایران",
+      "duration_seconds": 210,
+      "duration_formatted": "۰۳:۳۰",
+      "cover_gradient": [
+        "#236B64",
+        "#79A96B"
+      ],
+      "icon": "fa-water",
+      "audio_url": "/audio/trk_019.mp3",
+      "tags": [
+        "جنوبی",
+        "دریا",
+        "محلی"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "موج آرام ساحل، لالایی می‌خواند",
+        "نسیم گرم دریا، خواب تو را می‌داند",
+        "لالا لالا عزیزم، شب به خیر ای جان"
+      ]
+    },
+    {
+      "id": "trk_020",
+      "category_id": "cat_folk",
+      "title": "لالایی بلوچیِ ستاره",
+      "artist / source": "الهام‌گرفته از موسیقی بلوچستان",
+      "duration_seconds": 199,
+      "duration_formatted": "۰۳:۱۹",
+      "cover_gradient": [
+        "#236B64",
+        "#79A96B"
+      ],
+      "icon": "fa-star",
+      "audio_url": "/audio/trk_020.mp3",
+      "tags": [
+        "بلوچی",
+        "محلی",
+        "ستاره"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "ستاره بر شن‌ها، چراغ شب ماست",
+        "لالا لالا گل من، خواب تو زیباست",
+        "باد کویر آرام، قصه‌خوان خانه است"
+      ]
+    },
+    {
+      "id": "trk_021",
+      "category_id": "cat_folk",
+      "title": "لالایی عربیِ خوزستان",
+      "artist / source": "الهام‌گرفته از نغمه‌های عربی خوزستان",
+      "duration_seconds": 176,
+      "duration_formatted": "۰۲:۵۶",
+      "cover_gradient": [
+        "#236B64",
+        "#79A96B"
+      ],
+      "icon": "fa-moon",
+      "audio_url": "/audio/trk_021.mp3",
+      "tags": [
+        "عربی",
+        "خوزستان",
+        "محلی"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "ماه بر نخلستان، آرام نور پاشید",
+        "لالا لالا عزیزم، خواب شیرین رسید",
+        "شط برای گهواره، آواز نرم کشید"
+      ]
+    },
+    {
+      "id": "trk_022",
+      "category_id": "cat_folk",
+      "title": "لالایی قشقاییِ کوچ",
+      "artist / source": "الهام‌گرفته از موسیقی قشقایی",
+      "duration_seconds": 191,
+      "duration_formatted": "۰۳:۱۱",
+      "cover_gradient": [
+        "#236B64",
+        "#79A96B"
+      ],
+      "icon": "fa-campground",
+      "audio_url": "/audio/trk_022.mp3",
+      "tags": [
+        "قشقایی",
+        "ایل",
+        "محلی"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "چادر به خواب رفته، دشت پر از ستاره",
+        "لالا لالا جانم، شب رسیده دوباره",
+        "نسیم ایل می‌خواند، کنار آشیانه"
+      ]
+    },
+    {
+      "id": "trk_023",
+      "category_id": "cat_folk",
+      "title": "لالایی تالشیِ جنگل",
+      "artist / source": "الهام‌گرفته از موسیقی تالش",
+      "duration_seconds": 167,
+      "duration_formatted": "۰۲:۴۷",
+      "cover_gradient": [
+        "#236B64",
+        "#79A96B"
+      ],
+      "icon": "fa-tree",
+      "audio_url": "/audio/trk_023.mp3",
+      "tags": [
+        "تالشی",
+        "جنگل",
+        "آرام"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "جنگل سبز تالشی، در مه شبانه",
+        "لالا لالا گل من، بخواب در آشیانه",
+        "پرنده سر نهاده، به شاخهٔ ترانه"
+      ]
+    },
+    {
+      "id": "trk_024",
+      "category_id": "cat_folk",
+      "title": "لالایی خراسانیِ کاروان",
+      "artist / source": "الهام‌گرفته از نغمه‌های خراسان",
+      "duration_seconds": 205,
+      "duration_formatted": "۰۳:۲۵",
+      "cover_gradient": [
+        "#236B64",
+        "#79A96B"
+      ],
+      "icon": "fa-moon",
+      "audio_url": "/audio/trk_024.mp3",
+      "tags": [
+        "خراسانی",
+        "محلی",
+        "شبانه"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "کاروان ستاره، از دشت می‌گذرد",
+        "لالا لالا عزیزم، خواب تو را می‌برد",
+        "نسیم خراسانی، قصهٔ ماه آورد"
+      ]
+    },
+    {
+      "id": "trk_025",
+      "category_id": "cat_folk",
+      "title": "لالایی ترکمنیِ دشت",
+      "artist / source": "الهام‌گرفته از موسیقی ترکمن",
+      "duration_seconds": 183,
+      "duration_formatted": "۰۳:۰۳",
+      "cover_gradient": [
+        "#236B64",
+        "#79A96B"
+      ],
+      "icon": "fa-horse",
+      "audio_url": "/audio/trk_025.mp3",
+      "tags": [
+        "ترکمنی",
+        "دشت",
+        "محلی"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "دشت ترکمن امشب، زیر ماه آرام است",
+        "لالا لالا گل من، خواب تو خوش‌نام است",
+        "اسب باد می‌خوابد، شب پر از سلام است"
+      ]
+    },
+    {
+      "id": "trk_026",
+      "category_id": "cat_folk",
+      "title": "لالایی ارمنیِ باغچه",
+      "artist / source": "الهام‌گرفته از نغمه‌های ارمنی ایران",
+      "duration_seconds": 174,
+      "duration_formatted": "۰۲:۵۴",
+      "cover_gradient": [
+        "#236B64",
+        "#79A96B"
+      ],
+      "icon": "fa-leaf",
+      "audio_url": "/audio/trk_026.mp3",
+      "tags": [
+        "ارمنی",
+        "محلی",
+        "باغ"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "در باغ کوچک خانه، گل‌ها به خواب رفتند",
+        "لالا لالا عزیزم، ستاره‌ها شکفتند",
+        "شب آرام و روشن، قصه‌ها را شنفتند"
+      ]
+    },
+    {
+      "id": "trk_027",
+      "category_id": "cat_modern",
+      "title": "ترانهٔ خرس کوچولو",
+      "artist / source": "ترانهٔ تازهٔ کودکانه",
+      "duration_seconds": 157,
+      "duration_formatted": "۰۲:۳۷",
+      "cover_gradient": [
+        "#6846A5",
+        "#E78FA4"
+      ],
+      "icon": "fa-paw",
+      "audio_url": "/audio/trk_027.mp3",
+      "tags": [
+        "خرس",
+        "کودکانه",
+        "خواب"
+      ],
+      "is_favorite": true,
+      "lyrics": [
+        "خرس کوچولو خسته، بالش را بغل کرد",
+        "ماه برایش قصهٔ یک جنگل را سر کرد",
+        "چشم‌هایش بسته شد، خواب به خانه آمد"
+      ]
+    },
+    {
+      "id": "trk_028",
+      "category_id": "cat_modern",
+      "title": "لالایی خرگوش ابری",
+      "artist / source": "ترانهٔ تازهٔ کودکانه",
+      "duration_seconds": 163,
+      "duration_formatted": "۰۲:۴۳",
+      "cover_gradient": [
+        "#6846A5",
+        "#E78FA4"
+      ],
+      "icon": "fa-cloud",
+      "audio_url": "/audio/trk_028.mp3",
+      "tags": [
+        "خرگوش",
+        "ابر",
+        "نرم"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "خرگوش ابری پرید، روی بالش ماه",
+        "لالا لالا گوش دراز، شب شده همراه",
+        "ابر برایت می‌سازد، خانه‌ای از خواب"
+      ]
+    },
+    {
+      "id": "trk_029",
+      "category_id": "cat_modern",
+      "title": "قطار خواب‌آلود",
+      "artist / source": "ترانهٔ تازهٔ کودکانه",
+      "duration_seconds": 181,
+      "duration_formatted": "۰۳:۰۱",
+      "cover_gradient": [
+        "#6846A5",
+        "#E78FA4"
+      ],
+      "icon": "fa-train",
+      "audio_url": "/audio/trk_029.mp3",
+      "tags": [
+        "قطار",
+        "آرام",
+        "کودکانه"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "قطار خواب‌آلود، از دشت شب گذشت",
+        "لالا لالا مسافر، وقت آرامش است",
+        "ایستگاه رؤیاها، همین‌جاست امشب"
+      ]
+    },
+    {
+      "id": "trk_030",
+      "category_id": "cat_modern",
+      "title": "قایق کاغذیِ خواب",
+      "artist / source": "ترانهٔ تازهٔ کودکانه",
+      "duration_seconds": 171,
+      "duration_formatted": "۰۲:۵۱",
+      "cover_gradient": [
+        "#6846A5",
+        "#E78FA4"
+      ],
+      "icon": "fa-sailboat",
+      "audio_url": "/audio/trk_030.mp3",
+      "tags": [
+        "قایق",
+        "رؤیا",
+        "آرام"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "قایق کاغذی رفت روی دریای خواب",
+        "لالا لالا عزیزم، شب شده مهتاب",
+        "موج نرم برایت می‌آورد گلاب"
+      ]
+    },
+    {
+      "id": "trk_031",
+      "category_id": "cat_modern",
+      "title": "فیل کوچولو و ماه",
+      "artist / source": "ترانهٔ تازهٔ کودکانه",
+      "duration_seconds": 196,
+      "duration_formatted": "۰۳:۱۶",
+      "cover_gradient": [
+        "#6846A5",
+        "#E78FA4"
+      ],
+      "icon": "fa-elephant",
+      "audio_url": "/audio/trk_031.mp3",
+      "tags": [
+        "فیل",
+        "ماه",
+        "قصه"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "فیل کوچولو آرام، خرطومش را جمع کرد",
+        "ماه نقره‌ای برایش یک قصه بلند کرد",
+        "لالا لالا بخواب، شب تو را پسند کرد"
+      ]
+    },
+    {
+      "id": "trk_032",
+      "category_id": "cat_modern",
+      "title": "ابر پنبه‌ای",
+      "artist / source": "ترانهٔ تازهٔ کودکانه",
+      "duration_seconds": 149,
+      "duration_formatted": "۰۲:۲۹",
+      "cover_gradient": [
+        "#6846A5",
+        "#E78FA4"
+      ],
+      "icon": "fa-cloud",
+      "audio_url": "/audio/trk_032.mp3",
+      "tags": [
+        "ابر",
+        "لطیف",
+        "خواب‌آور"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "ابر پنبه‌ای آمد، روی بام نشست",
+        "لالا لالا عزیزم، چشم‌هایت را ببست",
+        "باران نرم و آرام، خواب را به تو سپرد"
+      ]
+    },
+    {
+      "id": "trk_033",
+      "category_id": "cat_modern",
+      "title": "بالشِ ستاره‌نشان",
+      "artist / source": "ترانهٔ تازهٔ کودکانه",
+      "duration_seconds": 188,
+      "duration_formatted": "۰۳:۰۸",
+      "cover_gradient": [
+        "#6846A5",
+        "#E78FA4"
+      ],
+      "icon": "fa-star",
+      "audio_url": "/audio/trk_033.mp3",
+      "tags": [
+        "بالش",
+        "ستاره",
+        "آرام"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "بالش ستاره‌نشان، جا برایت باز کرد",
+        "شب چراغ‌هایش را یکی‌یکی کم کرد",
+        "لالا لالا بخواب، ماه نگهبان است"
+      ]
+    },
+    {
+      "id": "trk_034",
+      "category_id": "cat_modern",
+      "title": "باغ رؤیاهای من",
+      "artist / source": "ترانهٔ تازهٔ کودکانه",
+      "duration_seconds": 207,
+      "duration_formatted": "۰۳:۲۷",
+      "cover_gradient": [
+        "#6846A5",
+        "#E78FA4"
+      ],
+      "icon": "fa-seedling",
+      "audio_url": "/audio/trk_034.mp3",
+      "tags": [
+        "رؤیا",
+        "باغ",
+        "کودکانه"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "در باغ رؤیاها، گل‌های آبی هست",
+        "لالا لالا عزیزم، شب مهربانی است",
+        "هر خواب قشنگی، از لبخند تو رست"
+      ]
+    },
+    {
+      "id": "trk_035",
+      "category_id": "cat_modern",
+      "title": "جوجهٔ خواب‌آلود",
+      "artist / source": "ترانهٔ تازهٔ کودکانه",
+      "duration_seconds": 159,
+      "duration_formatted": "۰۲:۳۹",
+      "cover_gradient": [
+        "#6846A5",
+        "#E78FA4"
+      ],
+      "icon": "fa-egg",
+      "audio_url": "/audio/trk_035.mp3",
+      "tags": [
+        "جوجه",
+        "مهربان",
+        "خواب"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "جوجهٔ زرد کوچولو، سر زیر بالش برد",
+        "ماه روی پنجره برایش قصه آورد",
+        "لالا لالا عزیزم، شب به خوابش سپرد"
+      ]
+    },
+    {
+      "id": "trk_036",
+      "category_id": "cat_modern",
+      "title": "بال‌های پروانه",
+      "artist / source": "ترانهٔ تازهٔ کودکانه",
+      "duration_seconds": 175,
+      "duration_formatted": "۰۲:۵۵",
+      "cover_gradient": [
+        "#6846A5",
+        "#E78FA4"
+      ],
+      "icon": "fa-bug",
+      "audio_url": "/audio/trk_036.mp3",
+      "tags": [
+        "پروانه",
+        "شب",
+        "لطیف"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "پروانه بال‌هایش را آرام جمع کرد",
+        "لالا لالا عزیزم، گل خواب را صدا کرد",
+        "شب روی باغچه، چراغ ماه را وا کرد"
+      ]
+    },
+    {
+      "id": "trk_037",
+      "category_id": "cat_modern",
+      "title": "ستاره‌شمار کوچک",
+      "artist / source": "ترانهٔ تازهٔ کودکانه",
+      "duration_seconds": 193,
+      "duration_formatted": "۰۳:۱۳",
+      "cover_gradient": [
+        "#6846A5",
+        "#E78FA4"
+      ],
+      "icon": "fa-star",
+      "audio_url": "/audio/trk_037.mp3",
+      "tags": [
+        "شمارش",
+        "ستاره",
+        "آرام"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "یک ستاره، دو ستاره، آسمان چراغان",
+        "لالا لالا عزیزم، خواب تو فراوان",
+        "سه ستاره نگهبان، چهار تا مهربان"
+      ]
+    },
+    {
+      "id": "trk_038",
+      "category_id": "cat_modern",
+      "title": "روباه و فانوس ماه",
+      "artist / source": "ترانهٔ تازهٔ کودکانه",
+      "duration_seconds": 186,
+      "duration_formatted": "۰۳:۰۶",
+      "cover_gradient": [
+        "#6846A5",
+        "#E78FA4"
+      ],
+      "icon": "fa-moon",
+      "audio_url": "/audio/trk_038.mp3",
+      "tags": [
+        "روباه",
+        "قصه",
+        "خواب"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "روباه کوچولو فانوس ماه را دید",
+        "از جنگل گذر کرد و به خوابگاه رسید",
+        "لالا لالا عزیزم، قصه به پایان رسید"
+      ]
+    },
+    {
+      "id": "trk_039",
+      "category_id": "cat_modern",
+      "title": "خانهٔ کوچک خواب",
+      "artist / source": "ترانهٔ تازهٔ کودکانه",
+      "duration_seconds": 164,
+      "duration_formatted": "۰۲:۴۴",
+      "cover_gradient": [
+        "#6846A5",
+        "#E78FA4"
+      ],
+      "icon": "fa-house",
+      "audio_url": "/audio/trk_039.mp3",
+      "tags": [
+        "خانه",
+        "خانواده",
+        "خواب"
+      ],
+      "is_favorite": false,
+      "lyrics": [
+        "خانهٔ کوچک ما آرام و روشن است",
+        "لالا لالا عزیزم، شب پر ز گلشن است",
+        "خواب خوش پشت در، با لبخند منتظر است"
+      ]
+    },
+    {
+      "id": "trk_040",
+      "category_id": "cat_nature",
+      "title": "جعبه موسیقیِ ماه",
+      "artist / source": "جعبه موسیقی و سازهای نرم",
+      "duration_seconds": 180,
+      "duration_formatted": "۰۳:۰۰",
+      "cover_gradient": [
+        "#244B66",
+        "#58A6A6"
+      ],
+      "icon": "fa-music",
+      "audio_url": "/audio/trk_040.mp3",
+      "tags": [
+        "جعبه‌موسیقی",
+        "بی‌کلام",
+        "آرام"
+      ],
+      "is_favorite": true,
+      "lyrics": []
+    },
+    {
+      "id": "trk_041",
+      "category_id": "cat_nature",
+      "title": "پیانوی مهتاب",
+      "artist / source": "پیانو و ارکستر نرم",
+      "duration_seconds": 240,
+      "duration_formatted": "۰۴:۰۰",
+      "cover_gradient": [
+        "#244B66",
+        "#58A6A6"
+      ],
+      "icon": "fa-piano",
+      "audio_url": "/audio/trk_041.mp3",
+      "tags": [
+        "پیانو",
+        "بی‌کلام",
+        "مهتاب"
+      ],
+      "is_favorite": false,
+      "lyrics": []
+    },
+    {
+      "id": "trk_042",
+      "category_id": "cat_nature",
+      "title": "باران پشت پنجره",
+      "artist / source": "صدای باران طبیعی",
+      "duration_seconds": 360,
+      "duration_formatted": "۰۶:۰۰",
+      "cover_gradient": [
+        "#244B66",
+        "#58A6A6"
+      ],
+      "icon": "fa-cloud-rain",
+      "audio_url": "/audio/trk_042.mp3",
+      "tags": [
+        "باران",
+        "طبیعت",
+        "نویز سفید"
+      ],
+      "is_favorite": false,
+      "lyrics": []
+    },
+    {
+      "id": "trk_043",
+      "category_id": "cat_nature",
+      "title": "موج‌های آرام ساحل",
+      "artist / source": "صدای موج دریا",
+      "duration_seconds": 420,
+      "duration_formatted": "۰۷:۰۰",
+      "cover_gradient": [
+        "#244B66",
+        "#58A6A6"
+      ],
+      "icon": "fa-water",
+      "audio_url": "/audio/trk_043.mp3",
+      "tags": [
+        "دریا",
+        "طبیعت",
+        "آرامش"
+      ],
+      "is_favorite": false,
+      "lyrics": []
+    },
+    {
+      "id": "trk_044",
+      "category_id": "cat_nature",
+      "title": "نویز سفیدِ نرم",
+      "artist / source": "نویز سفید استودیویی",
+      "duration_seconds": 600,
+      "duration_formatted": "۱۰:۰۰",
+      "cover_gradient": [
+        "#244B66",
+        "#58A6A6"
+      ],
+      "icon": "fa-wave-square",
+      "audio_url": "/audio/trk_044.mp3",
+      "tags": [
+        "نویز سفید",
+        "خواب",
+        "یکنواخت"
+      ],
+      "is_favorite": false,
+      "lyrics": []
+    },
+    {
+      "id": "trk_045",
+      "category_id": "cat_nature",
+      "title": "لالایی کالیمبا",
+      "artist / source": "کالیمبا و پدهای نرم",
+      "duration_seconds": 215,
+      "duration_formatted": "۰۳:۳۵",
+      "cover_gradient": [
+        "#244B66",
+        "#58A6A6"
+      ],
+      "icon": "fa-music",
+      "audio_url": "/audio/trk_045.mp3",
+      "tags": [
+        "کالیمبا",
+        "بی‌کلام",
+        "ملایم"
+      ],
+      "is_favorite": false,
+      "lyrics": []
+    },
+    {
+      "id": "trk_046",
+      "category_id": "cat_nature",
+      "title": "جنگل در نیمه‌شب",
+      "artist / source": "صدای جنگل شبانه",
+      "duration_seconds": 480,
+      "duration_formatted": "۰۸:۰۰",
+      "cover_gradient": [
+        "#244B66",
+        "#58A6A6"
+      ],
+      "icon": "fa-tree",
+      "audio_url": "/audio/trk_046.mp3",
+      "tags": [
+        "جنگل",
+        "طبیعت",
+        "شب"
+      ],
+      "is_favorite": false,
+      "lyrics": []
+    },
+    {
+      "id": "trk_047",
+      "category_id": "cat_nature",
+      "title": "آواز آرام جویبار",
+      "artist / source": "صدای جویبار طبیعی",
+      "duration_seconds": 390,
+      "duration_formatted": "۰۶:۳۰",
+      "cover_gradient": [
+        "#244B66",
+        "#58A6A6"
+      ],
+      "icon": "fa-water",
+      "audio_url": "/audio/trk_047.mp3",
+      "tags": [
+        "آب",
+        "طبیعت",
+        "آرامش"
+      ],
+      "is_favorite": false,
+      "lyrics": []
+    },
+    {
+      "id": "trk_048",
+      "category_id": "cat_nature",
+      "title": "فلوت میان ابرها",
+      "artist / source": "فلوت و سازهای زهی نرم",
+      "duration_seconds": 226,
+      "duration_formatted": "۰۳:۴۶",
+      "cover_gradient": [
+        "#244B66",
+        "#58A6A6"
+      ],
+      "icon": "fa-music",
+      "audio_url": "/audio/trk_048.mp3",
+      "tags": [
+        "فلوت",
+        "بی‌کلام",
+        "آرام"
+      ],
+      "is_favorite": false,
+      "lyrics": []
+    },
+    {
+      "id": "trk_049",
+      "category_id": "cat_nature",
+      "title": "ضربان آرام قلب",
+      "artist / source": "صدای آرامش‌بخش شبیه‌سازی‌شده",
+      "duration_seconds": 300,
+      "duration_formatted": "۰۵:۰۰",
+      "cover_gradient": [
+        "#244B66",
+        "#58A6A6"
+      ],
+      "icon": "fa-heart",
+      "audio_url": "/audio/trk_049.mp3",
+      "tags": [
+        "ضربان",
+        "آرامش",
+        "خواب"
+      ],
+      "is_favorite": false,
+      "lyrics": []
+    },
+    {
+      "id": "trk_050",
+      "category_id": "cat_nature",
+      "title": "باد در میان برگ‌ها",
+      "artist / source": "صدای باد و برگ",
+      "duration_seconds": 450,
+      "duration_formatted": "۰۷:۳۰",
+      "cover_gradient": [
+        "#244B66",
+        "#58A6A6"
+      ],
+      "icon": "fa-leaf",
+      "audio_url": "/audio/trk_050.mp3",
+      "tags": [
+        "باد",
+        "برگ",
+        "طبیعت"
+      ],
+      "is_favorite": false,
+      "lyrics": []
+    },
+    {
+      "id": "trk_051",
+      "category_id": "cat_nature",
+      "title": "پیانوی بارانِ شب",
+      "artist / source": "پیانو و صدای باران",
+      "duration_seconds": 264,
+      "duration_formatted": "۰۴:۲۴",
+      "cover_gradient": [
+        "#244B66",
+        "#58A6A6"
+      ],
+      "icon": "fa-piano",
+      "audio_url": "/audio/trk_051.mp3",
+      "tags": [
+        "پیانو",
+        "باران",
+        "بی‌کلام"
+      ],
+      "is_favorite": false,
+      "lyrics": []
+    },
+    {
+      "id": "trk_052",
+      "category_id": "cat_nature",
+      "title": "موسیقیِ آرامِ ستارگان",
+      "artist / source": "سینتی‌سایزر و پدهای محیطی",
+      "duration_seconds": 330,
+      "duration_formatted": "۰۵:۳۰",
+      "cover_gradient": [
+        "#244B66",
+        "#58A6A6"
+      ],
+      "icon": "fa-star",
+      "audio_url": "/audio/trk_052.mp3",
+      "tags": [
+        "محیطی",
+        "بی‌کلام",
+        "ستاره"
+      ],
+      "is_favorite": false,
+      "lyrics": []
+    }
+  ],
+  "sleep_timer_options_minutes": [
+    15,
+    30,
+    45,
+    60,
+    90,
+    120
+  ]
+}

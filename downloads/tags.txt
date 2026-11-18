@@ -1,0 +1,56 @@
+musicdel/m01.mp3|duration=259.813878|TAG:title=Lalaei Gonjeshk Lala |TAG:artist= |
+musicdel/m02.mp3|duration=221.335510|TAG:title=Lala Ei Gol Naz Bekhab Javaher|TAG:artist=موزیکدل|
+musicdel/m03.mp3|duration=309.285357|TAG:title=Lalaei 1|TAG:artist= | موزیکدل|
+musicdel/m04.mp3|duration=282.624000|TAG:title=Lalaei 10|TAG:artist= | موزیکدل|
+musicdel/m05.mp3|duration=300.088750|TAG:title=Lalaei 11|TAG:artist= | موزیکدل|
+musicdel/m06.mp3|duration=321.998750|TAG:title=Lalaei 12|TAG:artist= | موزیکدل|
+musicdel/m07.mp3|duration=305.478563|TAG:title=Lalaei 13|TAG:artist= | موزیکدل|
+musicdel/m08.mp3|duration=328.726313|TAG:title=Lalaei 14|TAG:artist= | موزیکدل|
+musicdel/m09.mp3|duration=136.150500|TAG:title=Lalaei 15|TAG:artist= | موزیکدل|
+musicdel/m10.mp3|duration=301.908000|TAG:title=Lalaei 16|TAG:artist= | موزیکدل|
+musicdel/m11.mp3|duration=117.877551|TAG:title=Lalaei 17|TAG:artist= | موزیکدل|
+musicdel/m12.mp3|duration=297.900375|TAG:title=Lalaei 18|TAG:artist= | موزیکدل|
+musicdel/m13.mp3|duration=181.524875|TAG:title=Lalaei 19|TAG:artist= | موزیکدل|
+musicdel/m14.mp3|duration=298.602000|TAG:title=Lalaei 2|TAG:artist= | موزیکدل|
+musicdel/m15.mp3|duration=244.480000|TAG:title=Lalaei 20|TAG:artist= | موزیکدل|
+musicdel/m16.mp3|duration=152.267750|TAG:title=Lalaei 21|TAG:artist= | موزیکدل|
+musicdel/m17.mp3|duration=259.813878|TAG:title=Lalaei 22|TAG:artist= | موزیکدل|
+musicdel/m18.mp3|duration=198.791837|TAG:title=Lalaei 23|TAG:artist= | موزیکدل|
+musicdel/m19.mp3|duration=268.026750|TAG:title=Lalaei 5|TAG:artist= | موزیکدل|
+musicdel/m20.mp3|duration=1015.020000|TAG:title=Lalaei 6|TAG:artist= | موزیکدل|
+musicdel/m21.mp3|duration=293.121071|TAG:title=Lalaei 7|TAG:artist= | موزیکدل|
+musicdel/m22.mp3|duration=304.983571|TAG:title=Lalaei 8|TAG:artist= | موزیکدل|
+musicdel/m23.mp3|duration=294.476786|TAG:title=Lalaei 9|TAG:artist= | موزیکدل|
+musicdel/sima_bina_ghashghaei.mp3|duration=247.431837|TAG:title=lalaei Ghashghaei موزیکدل|TAG:artist=Sima Bina موزیکدل|
+setare/372266_701.mp3|duration=181.820250|TAG:title=lalaey|TAG:artist=www.lalaey.blogsky.com|
+setare/372267_266.mp3|duration=136.158500|TAG:title=Lalaei 8 ~ Music-Fa.Com|TAG:artist=Different Singer ~ Music-Fa.Com|
+setare/372268_842.mp3|duration=300.076567|TAG:title=Lalaei Ney Talaei (ahangchin.ir)|TAG:artist=(ahangchin.ir)|
+setare/372269_515.mp3|duration=301.678000|TAG:title=لالایی فرزند زیبا|TAG:artist=@radiokodak_com|
+setare/372270_620.mp3|duration=181.532878|TAG:artist=Lala_Nilofar|TAG:title=istgahekoodak.ir|
+setare/372271_930.mp3|duration=195.357800|TAG:title=Lalaei chera ~ UpMusic|TAG:artist=Lalaei chera ~ UpMusic|
+setare/372272_983.mp3|duration=301.916000|TAG:artist=istgahekoodak.ir|TAG:title=لالایی خواب پارچه ای|
+voolak/Arousakekhoshgeleman.mp3|duration=210.285714|
+voolak/Niloufarabi.mp3|duration=181.551020|
+voolak/amooshadanokhalesetare.mp3|duration=125.204898|
+voolak/arosakjon.mp3|duration=284.290612|
+voolak/balesheabri.mp3|duration=281.260408|
+voolak/baradarkocholo.mp3|duration=123.506939|
+voolak/cheshmakbezansetare.mp3|duration=108.068571|
+voolak/golefiroze.mp3|duration=282.253061|
+voolak/golenini.mp3|duration=195.395918|
+voolak/golepesteh.mp3|duration=327.915102|
+voolak/hamoon.mp3|duration=162.690612|
+voolak/joojemashini.mp3|duration=282.644898|
+voolak/khabhayeparchei.mp3|duration=307.879184|
+voolak/mahoportqal.mp3|duration=309.237551|
+voolak/manasemonam.mp3|duration=148.114286|
+voolak/neyetalaei.mp3|duration=300.094694|
+voolak/parandekhab.mp3|duration=308.349388|
+voolak/royayekoch.mp3|duration=321.645714|
+iranseda/107786.mp3|duration=574.772245|TAG:artist=Unknown artist|TAG:title=لالایی (لالایی ها و آوا های سرزمین مادری ام ایران)|
+iranseda/107789.mp3|duration=283.533061|TAG:artist=Unknown artist|TAG:title=لالایی (لالایی ها و آوا های سرزمین مادری ام ایران)|
+iranseda/107791.mp3|duration=147.069388|TAG:artist=Unknown artist|TAG:title=لالایی (لالایی ها و آوا های سرزمین مادری ام ایران)|
+iranseda/107792.mp3|duration=52.035918|TAG:artist=Unknown artist|TAG:title=لالایی (لالایی ها و آوا های سرزمین مادری ام ایران)|
+iranseda/107794.mp3|duration=113.136327|TAG:artist=Unknown artist|TAG:title=لالایی (لالایی ها و آوا های سرزمین مادری ام ایران)|
+iranseda/107796.mp3|duration=78.863673|TAG:artist=Unknown artist|TAG:title=لالایی (لالایی ها و آوا های سرزمین مادری ام ایران)|
+iranseda/107797.mp3|duration=335.830204|TAG:artist=Unknown artist|TAG:title=لالایی (لالایی ها و آوا های سرزمین مادری ام ایران)|
